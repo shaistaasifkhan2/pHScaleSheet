@@ -1,0 +1,57 @@
+body{
+    background-color: silver;
+    color: white;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: white;
+    color: grey;
+    padding: inherit;
+}
+p{
+    padding:5PX;
+    margin:0px ; 
+}
+p.one{
+    background-color: red;
+}
+p.two{
+    background-color: #F61491;
+}
+p.three{
+    background-color: orange;
+}
+p.four{
+    background-color: #FADA5F;
+}
+p.five{
+    background-color: yellow;
+}
+p.six{
+    background-color: limegreen;
+}
+p.seven{
+    background-color: green;
+}
+p.eight{
+    background-color: darkgreen;
+}
+p.nine{
+    background-color: turquoise;
+}
+p.ten{
+    background-color: #9ABDDC;
+}
+p.eleven{
+    background-color: blue;
+}
+p.twelve{
+    background-color: darkblue;
+}
+p.thirteen{
+    background-color: purple;
+}
+p.fourteen{
+    background-color: #710193;
+}
